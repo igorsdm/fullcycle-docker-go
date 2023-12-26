@@ -5,7 +5,7 @@
 Para rodar a imagem criada a partir do código fonte neste repositório:
 `docker run --rm -it igorsdmoraes/go`
 
-## Buidar imagem
+## Build da imagem
 
-Para buildar o código fonte em uma imagem local do docker
+Para fazer o build do código fonte em uma imagem local do docker
 `docker build -t desafio-igor-go:latest .`
